@@ -3,11 +3,16 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Name": "..\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
+        "Name": "ECommerceProject.Web\\ECommerceProject.Web.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj",
         "Action": "Start"
       },
       {
-        "Name": "ECommerceProject.Web\\ECommerceProject.Web.csproj",
+        "Name": "ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
         "Action": "Start"
       }
     ]

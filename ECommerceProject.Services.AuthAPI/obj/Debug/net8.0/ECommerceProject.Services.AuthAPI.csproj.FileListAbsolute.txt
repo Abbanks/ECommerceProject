@@ -142,3 +142,4 @@ C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Services.Au
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Services.AuthAPI\obj\Debug\net8.0\ECommerceProject.Services.AuthAPI.pdb
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Services.AuthAPI\obj\Debug\net8.0\ECommerceProject.Services.AuthAPI.genruntimeconfig.cache
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Services.AuthAPI\obj\Debug\net8.0\ref\ECommerceProject.Services.AuthAPI.dll
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Services.AuthAPI\obj\Debug\net8.0\ECommerceProject.Services.AuthAPI.sourcelink.json

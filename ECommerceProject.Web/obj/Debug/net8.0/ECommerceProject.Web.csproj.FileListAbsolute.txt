@@ -31,3 +31,4 @@ C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\obj\Deb
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\obj\Debug\net8.0\ECommerceProject.Web.pdb
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\obj\Debug\net8.0\ECommerceProject.Web.genruntimeconfig.cache
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\obj\Debug\net8.0\ref\ECommerceProject.Web.dll
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\obj\Debug\net8.0\ECommerceProject.Web.sourcelink.json

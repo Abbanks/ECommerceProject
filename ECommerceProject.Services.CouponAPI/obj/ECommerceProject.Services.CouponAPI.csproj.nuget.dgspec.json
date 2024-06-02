@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj": {}
+    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj": {
+    "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
         "projectName": "ECommerceProject.Services.CouponAPI",
-        "projectPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
+        "projectPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
         "packagesPath": "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject.Services.CouponAPI\\obj\\",
+        "outputPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZBOOK 14U G6\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

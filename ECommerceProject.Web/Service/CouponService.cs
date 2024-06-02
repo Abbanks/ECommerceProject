@@ -1,5 +1,4 @@
 ﻿using ECommerceProject.Web.Models;
-
 using ECommerceProject.Web.Service.IService;
 using ECommerceProject.Web.Utility;
 
@@ -66,7 +65,7 @@ namespace ECommerceProject.Web.Service
                 ApiType = StaticDetail.ApiType.PUT,
                 Data = couponDto,
                 Url = StaticDetail.CouponAPIBase + "/api/coupon/update-coupon/"
-			});
+            });
         }
     }
 }

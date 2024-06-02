@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mb2EIRQeH0aJmjF/e012OoGojIGlLPBMCJJ6jkGXXLOXCvjn7qb4bUmC+6j1reOHh20HbZ2go8Jcsrel0EF2ZA==",
+  "dgSpecHash": "A0w/sjrfxwg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

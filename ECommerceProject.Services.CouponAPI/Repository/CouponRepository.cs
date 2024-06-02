@@ -2,12 +2,13 @@
 using ECommerceProject.Services.CouponAPI.Models;
 using ECommerceProject.Services.CouponAPI.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
+ 
 
 namespace ECommerceProject.Services.CouponAPI.Repository
 {
     public class CouponRepository : ICouponRepository
     {
-        public AppDbContext _context;
+        private readonly AppDbContext _context;
 
         public CouponRepository(AppDbContext context)
         {
@@ -16,9 +17,10 @@ namespace ECommerceProject.Services.CouponAPI.Repository
 
         public async Task<bool> AddAsync(Coupon coupon)
         {
-            await _context.AddAsync(coupon);
+            await _context.Coupons.AddAsync(coupon);
             return await _context.SaveChangesAsync() > 0;
         }
+
         public async Task<IEnumerable<Coupon>> GetAllAsync()
         {
             return await _context.Coupons.ToListAsync();
@@ -31,8 +33,7 @@ namespace ECommerceProject.Services.CouponAPI.Repository
 
         public async Task<Coupon> GetByIdAsync(int couponId)
         {
-            return await _context.FindAsync<Coupon>(couponId);
-
+            return await _context.Coupons.FindAsync(couponId);
         }
 
         public async Task<bool> UpdateAsync(Coupon coupon)
@@ -43,12 +44,13 @@ namespace ECommerceProject.Services.CouponAPI.Repository
 
         public async Task<bool> DeleteAsync(int couponId)
         {
-            var coupon = _context.Coupons.FirstOrDefault(i => i.CouponId == couponId);
+            var coupon = await _context.Coupons.FirstOrDefaultAsync(i => i.CouponId == couponId);
+            if (coupon == null)
+            {
+                return false;
+            }
             _context.Coupons.Remove(coupon);
             return await _context.SaveChangesAsync() > 0;
         }
-
-
-
     }
 }

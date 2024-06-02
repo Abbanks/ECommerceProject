@@ -2,7 +2,7 @@
   {
     "ContainingType": "ECommerceProject.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "GetAllCoupons",
-    "RelativePath": "api/cou5pon/all",
+    "RelativePath": "api/coupon/all",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "ECommerceProject.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "GetCouponByCode",
-    "RelativePath": "api/cou5pon/couponCode",
+    "RelativePath": "api/coupon/couponCode",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -48,7 +48,7 @@
   {
     "ContainingType": "ECommerceProject.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "GetCouponById",
-    "RelativePath": "api/cou5pon/couponId",
+    "RelativePath": "api/coupon/couponId",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -74,7 +74,7 @@
   {
     "ContainingType": "ECommerceProject.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "CreateCoupon",
-    "RelativePath": "api/cou5pon/create-coupon",
+    "RelativePath": "api/coupon/create-coupon",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -100,7 +100,7 @@
   {
     "ContainingType": "ECommerceProject.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "DeleteCoupon",
-    "RelativePath": "api/cou5pon/delete/{id}",
+    "RelativePath": "api/coupon/delete/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -126,7 +126,7 @@
   {
     "ContainingType": "ECommerceProject.Services.CouponAPI.Controllers.CouponAPIController",
     "Method": "UpdateCoupon",
-    "RelativePath": "api/cou5pon/update-coupon",
+    "RelativePath": "api/coupon/update-coupon",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
