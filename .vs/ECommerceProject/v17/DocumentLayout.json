@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -104,10 +116,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -222,10 +230,6 @@
       "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -241,7 +245,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -249,43 +253,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.AspNetRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetRoles.sql",
-              "ToolTip": "dbo.AspNetRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T23:45:44.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAtwEsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:54:38.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwCUAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:59:30.83Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.json",
+              "RelativeToolTip": "ECommerceProject.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-08T20:09:47.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\appsettings.json",
+              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T23:16:19.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.Development.json",
+              "RelativeToolTip": "ECommerceProject.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T21:24:11.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\AuthController.cs",
@@ -298,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\AuthService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\AuthService.cs",
@@ -306,42 +313,71 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\AuthService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:15:58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbo.AspNetUserRoles [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "ToolTip": "dbo.AspNetUserRoles [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-08T20:01:29.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:15:58Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "dbo.AspNetUsers [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetUsers.sql",
-              "ToolTip": "dbo.AspNetUsers [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T09:43:32.035Z",
-              "EditorCaption": ""
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
+              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAtwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:54:38.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.AspNetUserClaims [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetUserClaims.sql",
-              "ToolTip": "dbo.AspNetUserClaims [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T23:46:36.803Z",
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "AuthAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Controllers\\AuthAPIController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T22:59:30.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "dbo.AspNetRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetRoles.sql",
+              "ToolTip": "dbo.AspNetRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T23:45:44.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.AspNetUserRoles [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "dbo.AspNetUserRoles [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-08T20:01:29.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T09:43:32.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.AspNetUserClaims [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetUserClaims.sql",
+              "ToolTip": "dbo.AspNetUserClaims [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-10T23:46:36.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Auth\\Register.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Auth\\Register.cshtml",
@@ -349,12 +385,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Auth\\Register.cshtml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAowCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T20:53:01.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:53:01.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "RegistrationRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\RegistrationRequestDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\RegistrationRequestDto.cs",
@@ -362,22 +397,20 @@
               "RelativeToolTip": "ECommerceProject.Web\\Models\\RegistrationRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:06:59.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:06:59.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "dbo.AspNetRoleClaims [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/desktop_1849a7b/ecommercedb_Auth/True/SqlTable/dbo.AspNetRoleClaims.sql",
               "ToolTip": "dbo.AspNetRoleClaims [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-10T23:46:19.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T23:46:19.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "StaticDetail.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Utility\\StaticDetail.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Utility\\StaticDetail.cs",
@@ -385,12 +418,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Utility\\StaticDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:09:07.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:09:07.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "JwtTokenService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\JwtTokenService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Service\\JwtTokenService.cs",
@@ -398,12 +430,11 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Service\\JwtTokenService.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAtwCwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:14:03.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T23:14:03.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\IAuthService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\IService\\IAuthService.cs",
@@ -411,12 +442,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\IService\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:12:35.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:12:35.401Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Auth\\Login.cshtml",
@@ -424,12 +454,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Auth\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T20:52:43.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:52:43.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "RequestDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\RequestDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\RequestDto.cs",
@@ -437,12 +466,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Models\\RequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:07:21.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:07:21.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
@@ -450,12 +478,11 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Service\\IService\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T10:48:56.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:48:56.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "BaseService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\BaseService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\BaseService.cs",
@@ -463,12 +490,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\BaseService.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAtwEkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:17:02.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:17:02.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\ResponseDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\ResponseDto.cs",
@@ -476,12 +502,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Models\\ResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:06:20.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:06:20.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "CouponAPIController.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
@@ -489,12 +514,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:49:16.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:49:16.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Shared\\_Layout.cshtml",
@@ -502,12 +526,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T20:44:03.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:44:03.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IJwtTokenService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\IService\\IJwtTokenService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Service\\IService\\IJwtTokenService.cs",
@@ -515,12 +538,11 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Service\\IService\\IJwtTokenService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T11:01:06.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T11:01:06.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Program.cs",
@@ -528,12 +550,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:10:20.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:10:20.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "CouponController.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\CouponController.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\CouponController.cs",
@@ -541,12 +562,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Controllers\\CouponController.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAA5wD4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T21:22:23.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T21:22:23.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ICouponService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\ICouponService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\IService\\ICouponService.cs",
@@ -554,12 +574,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\IService\\ICouponService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:27:31.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:27:31.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "CouponService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\CouponService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\CouponService.cs",
@@ -567,12 +586,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\CouponService.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAkwBYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:25:12.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:25:12.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Properties\\launchSettings.json",
@@ -580,25 +598,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-02T23:37:01.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T23:37:01.894Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.json",
-              "RelativeToolTip": "ECommerceProject.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-08T20:09:47.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Properties\\launchSettings.json",
@@ -606,12 +610,11 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-02T23:35:58.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T23:35:58.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Properties\\launchSettings.json",
@@ -619,12 +622,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-08T20:08:27.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:08:27.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\_ViewImports.cshtml",
@@ -632,12 +634,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T20:55:08.057Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:55:08.057Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "CouponCreate.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Coupon\\CouponCreate.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Coupon\\CouponCreate.cshtml",
@@ -645,12 +646,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Coupon\\CouponCreate.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T10:04:15.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:04:15.826Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "CouponIndex.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Coupon\\CouponIndex.cshtml",
@@ -658,12 +658,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T10:00:45.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:00:45.365Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\_ViewStart.cshtml",
@@ -671,12 +670,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T20:55:10.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:55:10.859Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Home\\Index.cshtml",
@@ -684,12 +682,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-10T10:00:53.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T10:00:53.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "IBaseService.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\IBaseService.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\IService\\IBaseService.cs",
@@ -697,12 +694,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\IService\\IBaseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:21:06.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:21:06.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "TokenProvider.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\TokenProvider.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\TokenProvider.cs",
@@ -710,12 +706,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\TokenProvider.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAowBAAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T13:10:11.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T13:10:11.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "ITokenProvider.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\ITokenProvider.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\IService\\ITokenProvider.cs",
@@ -723,12 +718,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Service\\IService\\ITokenProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T13:07:24.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T13:07:24.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "RegistrationRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
@@ -736,12 +730,11 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Models\\Dto\\RegistrationRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T21:17:43.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T21:17:43.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\HomeController.cs",
@@ -749,12 +742,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T21:09:43.041Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T21:09:43.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -762,12 +754,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T21:04:16.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T21:04:16.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Program.cs",
@@ -775,12 +766,11 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Program.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAcwC8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T22:37:29.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T22:37:29.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\UserDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\UserDto.cs",
@@ -788,12 +778,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Models\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:07:07.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:07:07.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "LoginResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\LoginResponseDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\LoginResponseDto.cs",
@@ -801,12 +790,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Models\\LoginResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:06:40.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:06:40.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "LoginRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\LoginRequestDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\LoginRequestDto.cs",
@@ -814,12 +802,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Models\\LoginRequestDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:06:41.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:06:41.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\ErrorViewModel.cs",
@@ -827,12 +814,11 @@
               "RelativeToolTip": "ECommerceProject.Web\\Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:06:39.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T20:06:39.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Data\\AppDbContext.cs",
@@ -840,12 +826,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:49:10.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:49:10.337Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
@@ -853,12 +838,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\ResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:49:04.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:49:04.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "CouponDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
@@ -866,12 +850,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:48:53.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:48:53.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "CouponDtoResponse.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDtoResponse.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDtoResponse.cs",
@@ -879,12 +862,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDtoResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:48:55.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:48:55.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Models\\Coupon.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Models\\Coupon.cs",
@@ -892,12 +874,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Models\\Coupon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:48:49.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:48:49.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "ICouponRepository.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Repository\\IRepository\\ICouponRepository.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Repository\\IRepository\\ICouponRepository.cs",
@@ -905,12 +886,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Repository\\IRepository\\ICouponRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:48:42.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:48:42.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "CouponRepository.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
@@ -918,12 +898,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAA3wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:48:05.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:48:05.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\MappingConfig.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\MappingConfig.cs",
@@ -931,12 +910,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\MappingConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:47:48.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:47:48.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Program.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Program.cs",
@@ -944,25 +922,11 @@
               "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Program.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T19:47:41.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T19:47:41.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-02T23:16:19.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\appsettings.json",
@@ -975,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "JwtOptions.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Models\\JwtOptions.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Models\\JwtOptions.cs",
@@ -983,12 +947,11 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Models\\JwtOptions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:16:02.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T23:16:02.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
               "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
@@ -996,8 +959,7 @@
               "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Models\\Dto\\ResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T23:00:35.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-02T23:00:35.47Z"
             }
           ]
         },
