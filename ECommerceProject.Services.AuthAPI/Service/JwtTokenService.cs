@@ -17,7 +17,7 @@ namespace ECommerceProject.Services.AuthAPI.Service
             _jwtOptions = jwtOptions.Value;
         }
 
-        public string GenerateToken(AppUser applicationUser, IEnumerable<string> roles)
+         public string GenerateToken(AppUser applicationUser, IEnumerable<string> roles)
         {
             var tokenHandler = new JwtSecurityTokenHandler();
             var key = Encoding.UTF8.GetBytes(_jwtOptions.Secret);

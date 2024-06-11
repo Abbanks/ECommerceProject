@@ -2,12 +2,14 @@
 using ECommerceProject.Services.CouponAPI.Models;
 using ECommerceProject.Services.CouponAPI.Models.Dto;
 using ECommerceProject.Services.CouponAPI.Repository.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ECommerceProject.Services.CouponAPI.Controllers
 {
     [Route("api/coupon")]
     [ApiController]
+    [Authorize]
     public class CouponAPIController : ControllerBase
     {
         private readonly ICouponRepository _couponRepository;
@@ -91,6 +93,7 @@ namespace ECommerceProject.Services.CouponAPI.Controllers
         }
 
         [HttpPost("create-coupon")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<ResponseDto>> CreateCoupon([FromBody] CouponDto couponDto)
         {
             try
@@ -110,6 +113,7 @@ namespace ECommerceProject.Services.CouponAPI.Controllers
         }
 
         [HttpPut("update-coupon")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<ResponseDto>> UpdateCoupon([FromBody] CouponDto couponDto)
         {
             try
@@ -129,6 +133,7 @@ namespace ECommerceProject.Services.CouponAPI.Controllers
         }
 
         [HttpDelete("delete/{id}")]
+        [Authorize(Roles = "Admin")]
         public async Task<ActionResult<ResponseDto>> DeleteCoupon(int id)
         {
             try

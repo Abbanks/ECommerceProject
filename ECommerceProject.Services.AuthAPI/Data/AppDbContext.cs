@@ -17,6 +17,12 @@ namespace ECommerceProject.Services.AuthAPI.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<IdentityRole>().HasData(
+                new IdentityRole { Name = "Admin", NormalizedName = "ADMIN" },
+                new IdentityRole { Name = "Customer", NormalizedName = "CUSTOMER" }
+            );
+ 
             
         }
 

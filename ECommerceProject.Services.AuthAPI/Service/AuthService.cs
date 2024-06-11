@@ -20,19 +20,35 @@ namespace ECommerceProject.Services.AuthAPI.Service
 
         public async Task<bool> AssignRole(string email, string roleName)
         {
-            var user = await _userManager.FindByEmailAsync(email);
-            if (user != null)
+            if (string.IsNullOrEmpty(email) || string.IsNullOrEmpty(roleName))
             {
-                if (!await _roleManager.RoleExistsAsync(roleName))
-                {
-                    await _roleManager.CreateAsync(new IdentityRole(roleName));
-                }
-
-                await _userManager.AddToRoleAsync(user, roleName);
-                return true;
+                throw new ArgumentException("Email and role name must be provided.");
             }
-            return false;
+
+            var user = await _userManager.FindByEmailAsync(email);
+            if (user == null)
+            {
+                return false;
+            }
+
+            if (!await _roleManager.RoleExistsAsync(roleName))
+            {
+                var roleResult = await _roleManager.CreateAsync(new IdentityRole(roleName));
+                if (!roleResult.Succeeded)
+                {
+                    return false;
+                }
+            }
+
+            var addRoleResult = await _userManager.AddToRoleAsync(user, roleName);
+            if (!addRoleResult.Succeeded)
+            {
+                return false;
+            }
+
+            return true;
         }
+
 
         public async Task<string> Register(RegistrationRequestDto registrationRequestDto)
         {

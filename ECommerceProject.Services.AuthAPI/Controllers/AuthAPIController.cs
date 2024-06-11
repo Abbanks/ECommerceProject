@@ -18,10 +18,9 @@ namespace ECommerceProject.Services.AuthAPI.Controllers
         }
 
         [HttpPost("assign-role")]
-        public async Task<IActionResult> AssignRole(string email, string role)
+        public async Task<IActionResult> AssignRole([FromBody] RegistrationRequestDto model)
         {
-            var assignRoleSuccessful = await _authService.AssignRole(email, role);
-
+            var assignRoleSuccessful = await _authService.AssignRole(model.Email, model.Role);
             if (!assignRoleSuccessful)
             {
                 _response.IsSuccess = false;
@@ -29,13 +28,14 @@ namespace ECommerceProject.Services.AuthAPI.Controllers
                 return BadRequest(_response);
             }
             return Ok(_response);
+
         }
 
         [HttpPost("register")]
         public async Task<IActionResult> Register([FromBody] RegistrationRequestDto model)
         {
             var result = await _authService.Register(model);
-            if (!string.IsNullOrEmpty(result))
+            if (string.IsNullOrEmpty(result))
             {
                 _response.IsSuccess = false;
                 _response.Message = result;
