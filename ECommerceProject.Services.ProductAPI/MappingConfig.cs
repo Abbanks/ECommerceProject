@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using ECommerceProject.Services.ProductAPI.Models.Dto;
 using ECommerceProject.Services.ProductAPI.Models;
+using ECommerceProject.Services.ProductAPI.Models.Dto;
 
 namespace ECommerceProject.Services.ProductAPI
 {

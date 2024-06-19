@@ -22,7 +22,7 @@ namespace ECommerceProject.Web.Service
                 ApiType = StaticDetail.ApiType.POST,
                 Data = productDto,
                 Url = StaticDetail.ProductAPIBase + "/api/product",
-               // ContentType = StaticDetail.ContentType.MultipartFormData
+                // ContentType = StaticDetail.ContentType.MultipartFormData
             });
         }
 
@@ -60,7 +60,7 @@ namespace ECommerceProject.Web.Service
                 ApiType = StaticDetail.ApiType.PUT,
                 Data = productDto,
                 Url = StaticDetail.ProductAPIBase + "/api/product",
-               // ContentType = SD.ContentType.MultipartFormData
+                // ContentType = SD.ContentType.MultipartFormData
             });
         }
     }

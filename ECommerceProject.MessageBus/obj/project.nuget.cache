@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3Kf37/ya1Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\awssdk.core\\3.7.304.16\\awssdk.core.3.7.304.16.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\awssdk.eventbridge\\3.7.303.15\\awssdk.eventbridge.3.7.303.15.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

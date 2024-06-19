@@ -2,7 +2,6 @@
 using ECommerceProject.Web.Service.IService;
 using Newtonsoft.Json;
 using System.Net;
-using System.Net.Mime;
 using System.Text;
 using static ECommerceProject.Web.Utility.StaticDetail;
 
@@ -43,35 +42,35 @@ namespace ECommerceProject.Web.Service
 
                 message.RequestUri = new Uri(requestDto.Url);
 
-         /*       if (requestDto.ContentType == ContentType.MultipartFormData)
-                {
-                    var content = new MultipartFormDataContent();
+                /*       if (requestDto.ContentType == ContentType.MultipartFormData)
+                       {
+                           var content = new MultipartFormDataContent();
 
-                    foreach (var prop in requestDto.Data.GetType().GetProperties())
-                    {
-                        var value = prop.GetValue(requestDto.Data);
-                        if (value is FormFile)
-                        {
-                            var file = (FormFile)value;
-                            if (file != null)
-                            {
-                                content.Add(new StreamContent(file.OpenReadStream()), prop.Name, file.FileName);
-                            }
-                        }
-                        else
-                        {
-                            content.Add(new StringContent(value == null ? "" : value.ToString()), prop.Name);
-                        }
-                    }
-                    message.Content = content;
-                }
-                else
-                {
-                    if (requestDto.Data != null)
-                    {
-                        message.Content = new StringContent(JsonConvert.SerializeObject(requestDto.Data), Encoding.UTF8, "application/json");
-                    }
-                }*/
+                           foreach (var prop in requestDto.Data.GetType().GetProperties())
+                           {
+                               var value = prop.GetValue(requestDto.Data);
+                               if (value is FormFile)
+                               {
+                                   var file = (FormFile)value;
+                                   if (file != null)
+                                   {
+                                       content.Add(new StreamContent(file.OpenReadStream()), prop.Name, file.FileName);
+                                   }
+                               }
+                               else
+                               {
+                                   content.Add(new StringContent(value == null ? "" : value.ToString()), prop.Name);
+                               }
+                           }
+                           message.Content = content;
+                       }
+                       else
+                       {
+                           if (requestDto.Data != null)
+                           {
+                               message.Content = new StringContent(JsonConvert.SerializeObject(requestDto.Data), Encoding.UTF8, "application/json");
+                           }
+                       }*/
 
 
                 if (requestDto.ApiType != ApiType.GET)

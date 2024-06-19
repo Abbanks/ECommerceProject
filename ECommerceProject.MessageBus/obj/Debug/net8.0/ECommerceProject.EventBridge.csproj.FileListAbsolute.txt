@@ -1,0 +1,13 @@
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\bin\Debug\net8.0\ECommerceProject.EventBridge.deps.json
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\bin\Debug\net8.0\ECommerceProject.EventBridge.dll
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\bin\Debug\net8.0\ECommerceProject.EventBridge.pdb
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.sourcelink.json
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.dll
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\refint\ECommerceProject.EventBridge.dll
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ECommerceProject.EventBridge.pdb
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.MessageBus\obj\Debug\net8.0\ref\ECommerceProject.EventBridge.dll

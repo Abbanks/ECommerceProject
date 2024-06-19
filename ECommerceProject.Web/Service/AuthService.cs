@@ -1,7 +1,6 @@
 ﻿using ECommerceProject.Web.Models;
 using ECommerceProject.Web.Service.IService;
 using ECommerceProject.Web.Utility;
-using System.Data;
 
 namespace ECommerceProject.Web.Service
 {

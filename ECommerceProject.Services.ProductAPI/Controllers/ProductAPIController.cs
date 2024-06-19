@@ -66,8 +66,8 @@ namespace ECommerceProject.Services.ProductAPI.Controllers
         }
 
         [HttpPost]
-		[Authorize(Roles = "Admin")]
-		public async Task<ActionResult<ResponseDto>> CreateProduct([FromBody] ProductDto productDto)
+        [Authorize(Roles = "Admin")]
+        public async Task<ActionResult<ResponseDto>> CreateProduct([FromBody] ProductDto productDto)
         {
             var response = new ResponseDto();
             try
@@ -95,8 +95,8 @@ namespace ECommerceProject.Services.ProductAPI.Controllers
         }
 
         [HttpPut]
-		[Authorize(Roles = "Admin")]
-		public async Task<ActionResult<ResponseDto>> UpdateProduct([FromBody] ProductDtoResponse productDto)
+        [Authorize(Roles = "Admin")]
+        public async Task<ActionResult<ResponseDto>> UpdateProduct([FromBody] ProductDtoResponse productDto)
         {
             var response = new ResponseDto();
             try
@@ -134,8 +134,8 @@ namespace ECommerceProject.Services.ProductAPI.Controllers
 
 
         [HttpDelete("{productId}")]
-		[Authorize(Roles = "Admin")]
-		public async Task<ActionResult<ResponseDto>> DeleteProduct(int productId)
+        [Authorize(Roles = "Admin")]
+        public async Task<ActionResult<ResponseDto>> DeleteProduct(int productId)
         {
             var response = new ResponseDto();
             try

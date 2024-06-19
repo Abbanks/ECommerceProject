@@ -3,124 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|solutionrelative:ecommerceproject.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\ecommerceproject.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\ecommerceproject.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2B235D7B-8371-4FDE-9EC7-4EB17DCA4E64}|ECommerceProject.Services.EmailAPI\\ECommerceProject.Services.EmailAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.emailapi\\ecommerceproject.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B235D7B-8371-4FDE-9EC7-4EB17DCA4E64}|ECommerceProject.Services.EmailAPI\\ECommerceProject.Services.EmailAPI.csproj|solutionrelative:ecommerceproject.services.emailapi\\ecommerceproject.services.emailapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.productapi\\ecommerceproject.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|solutionrelative:ecommerceproject.services.productapi\\ecommerceproject.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\service\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\service\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|solutionrelative:ecommerceproject.services.productapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\home\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2BECD665-6614-4A7B-849D-F724D25EEB81}|ECommerceProject.Services.AuthAPI\\ECommerceProject.Services.AuthAPI.csproj|solutionrelative:ecommerceproject.services.authapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\models\\dto\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\controllers\\couponcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BF6A30-7282-488A-92C6-CB1D6D49865D}|ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.messagebus\\eventbridgepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BF6A30-7282-488A-92C6-CB1D6D49865D}|ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj|solutionrelative:ecommerceproject.messagebus\\eventbridgepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BF6A30-7282-488A-92C6-CB1D6D49865D}|ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.messagebus\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BF6A30-7282-488A-92C6-CB1D6D49865D}|ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj|solutionrelative:ecommerceproject.messagebus\\ieventpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\iservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\iservice\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\ecommerceproject.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\ecommerceproject.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BF6A30-7282-488A-92C6-CB1D6D49865D}|ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.messagebus\\ecommerceproject.eventbridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1BF6A30-7282-488A-92C6-CB1D6D49865D}|ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj|solutionrelative:ecommerceproject.messagebus\\ecommerceproject.eventbridge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\service\\iservice\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\service\\iservice\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\coupon\\couponindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\coupon\\couponcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\iservice\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\utility\\backendapiauthenticationhttpclienthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\extensions\\webapplicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.couponapi\\models\\dto\\coupondtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\models\\dto\\coupondtoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E43DA51-7939-4F0A-8DE8-2906E6BA8A3E}|ECommerceProject.Services.CouponAPI\\ECommerceProject.Services.CouponAPI.csproj|solutionrelative:ecommerceproject.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6D2A313-5F4B-4C78-89DD-BC9C7980514A}|ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj|solutionrelative:ecommerceproject.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0FB9FF-7302-4AAF-BCF0-04CB42913CB9}|ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj|solutionrelative:ecommerceproject.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|c:\\users\\zbook 14u g6\\source\\repos\\ecommerceproject\\ecommerceproject.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A25A88E-23D2-468C-93D5-53748ADA571A}|ECommerceProject.Web\\ECommerceProject.Web.csproj|solutionrelative:ecommerceproject.web\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,7 +150,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -138,20 +158,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ECommerceProject.Services.ShoppingCartAPI",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
-              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
+              "DocumentIndex": 0,
+              "Title": "ECommerceProject.Services.EmailAPI",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.EmailAPI\\ECommerceProject.Services.EmailAPI.csproj",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.EmailAPI\\ECommerceProject.Services.EmailAPI.csproj",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.EmailAPI\\ECommerceProject.Services.EmailAPI.csproj",
+              "RelativeToolTip": "ECommerceProject.Services.EmailAPI\\ECommerceProject.Services.EmailAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-14T11:28:20.756Z",
+              "WhenOpened": "2024-06-19T12:08:20.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ECommerceProject.Services.ProductAPI",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj",
               "RelativeDocumentMoniker": "ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj",
@@ -159,296 +179,285 @@
               "RelativeToolTip": "ECommerceProject.Services.ProductAPI\\ECommerceProject.Services.ProductAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-14T11:28:07.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Program.cs",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:39:40.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Service\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:39:21.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ProductAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.ProductAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ProductAPI\\appsettings.json",
-              "RelativeToolTip": "ECommerceProject.Services.ProductAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T21:00:57.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JwtOptions.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Models\\JwtOptions.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Models\\JwtOptions.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Models\\JwtOptions.cs",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Models\\JwtOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T11:03:40.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\BaseService.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\BaseService.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\BaseService.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Service\\BaseService.cs",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:38:49.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\AuthService.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\AuthService.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\AuthService.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Service\\AuthService.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:38:43.899Z",
+              "WhenOpened": "2024-06-19T12:07:40.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T16:25:40.591Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T11:00:48.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\JwtTokenService.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Service\\JwtTokenService.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Service\\JwtTokenService.cs",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Service\\JwtTokenService.cs",
+              "Title": "ShoppingCartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAowJIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:56:04.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventBridgePublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.MessageBus\\EventBridgePublisher.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.MessageBus\\EventBridgePublisher.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.MessageBus\\EventBridgePublisher.cs",
+              "RelativeToolTip": "ECommerceProject.MessageBus\\EventBridgePublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:02:37.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAmwC0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:35:21.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\CartController.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAowG0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:15:42.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEventPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.MessageBus\\IEventPublisher.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.MessageBus\\IEventPublisher.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.MessageBus\\IEventPublisher.cs",
+              "RelativeToolTip": "ECommerceProject.MessageBus\\IEventPublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T17:01:48.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CartHeaderDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:39:23.079Z",
+              "WhenOpened": "2024-06-16T21:52:42.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "TokenProvider.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\TokenProvider.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\TokenProvider.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\TokenProvider.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Service\\TokenProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:38:46.153Z",
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "ECommerceProject.Web\\Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T10:10:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "ECommerceProject.Web\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAGcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T10:11:12.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Program.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Program.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:38:32.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WebApplicationBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:37:30.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "WebApplicationBuilderExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "RelativeToolTip": "ECommerceProject.Services.ProductAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:37:59.973Z",
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "ECommerceProject.Web\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T21:50:18.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\appsettings.json",
-              "RelativeToolTip": "ECommerceProject.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T21:01:17.196Z",
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\CartService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\CartService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\CartService.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Service\\CartService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:34:09.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.AuthAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.AuthAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ECommerceProject.Services.AuthAPI\\Properties\\launchSettings.json",
+              "DocumentIndex": 13,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\ICartService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\IService\\ICartService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\ICartService.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Service\\IService\\ICartService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T21:06:43.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Home\\ProductDetails.cshtml",
-              "RelativeToolTip": "ECommerceProject.Web\\Views\\Home\\ProductDetails.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-13T20:38:51.097Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T21:32:38.834Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\appsettings.json",
-              "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-13T21:00:36.149Z",
+              "Title": "ECommerceProject.Services.ShoppingCartAPI",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\ECommerceProject.Services.ShoppingCartAPI.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T21:04:54.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ECommerceProject.EventBridge.csproj",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj",
+              "RelativeDocumentMoniker": "ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj",
+              "RelativeToolTip": "ECommerceProject.MessageBus\\ECommerceProject.EventBridge.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-18T16:59:59.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Program.cs",
-              "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Program.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Service\\CouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:36:59.229Z",
+              "WhenOpened": "2024-06-16T21:55:58.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\ProductDto.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\ProductDto.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Models\\ProductDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T10:29:49.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Product\\ProductEdit.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeToolTip": "ECommerceProject.Web\\Views\\Product\\ProductEdit.cshtml",
+              "DocumentIndex": 17,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\IProductService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\IProductService.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T10:30:49.284Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:53:44.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "ProductIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Product\\ProductIndex.cshtml",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Product\\ProductIndex.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Product\\ProductIndex.cshtml",
-              "RelativeToolTip": "ECommerceProject.Web\\Views\\Product\\ProductIndex.cshtml",
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\ICouponService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\ICouponService.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Service\\IService\\ICouponService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T10:31:04.517Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T20:53:43.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Product\\ProductCreate.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeToolTip": "ECommerceProject.Web\\Views\\Product\\ProductCreate.cshtml",
+              "DocumentIndex": 22,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\IService\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\IService\\IBaseService.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Service\\IService\\IBaseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T10:31:14.037Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:34:19.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "CouponRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
-              "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\ProductService.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Service\\ProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T21:00:34.887Z"
+              "WhenOpened": "2024-06-17T17:34:14.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 24,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\CouponService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\CouponService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\CouponService.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Service\\CouponService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:34:12.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\BaseService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\BaseService.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Service\\BaseService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:34:22.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "CouponCreate.cshtml",
               "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Coupon\\CouponCreate.cshtml",
               "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Coupon\\CouponCreate.cshtml",
@@ -456,67 +465,151 @@
               "RelativeToolTip": "ECommerceProject.Web\\Views\\Coupon\\CouponCreate.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-13T20:45:20.153Z"
+              "WhenOpened": "2024-06-17T17:34:37.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "CouponController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\CouponController.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\CouponController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\CouponController.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Controllers\\CouponController.cs",
+              "DocumentIndex": 19,
+              "Title": "CouponIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Coupon\\CouponIndex.cshtml",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Coupon\\CouponIndex.cshtml",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Coupon\\CouponIndex.cshtml",
+              "RelativeToolTip": "ECommerceProject.Web\\Views\\Coupon\\CouponIndex.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T20:45:25.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T20:30:04.052Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T17:34:40.581Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\ProductService.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\ProductService.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Service\\ProductService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Service\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Service\\AuthService.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Service\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T20:46:03.626Z"
+              "WhenOpened": "2024-06-17T17:34:07.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ECommerceProject.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-13T20:37:29.271Z"
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:36:39.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BackendApiAuthenticationHttpClientHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Utility\\BackendApiAuthenticationHttpClientHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:44:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Extensions\\WebApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T16:37:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ShoppingCartAPI\\Models\\Dto\\CouponDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T22:14:51.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "ECommerceProject.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T22:02:54.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T22:15:13.016Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ECommerceProject.Web\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ECommerceProject.Web\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwFkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T20:29:56.362Z"
+              "WhenOpened": "2024-06-16T22:15:41.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CouponDtoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDtoResponse.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDtoResponse.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDtoResponse.cs",
+              "RelativeToolTip": "ECommerceProject.Services.CouponAPI\\Models\\Dto\\CouponDtoResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T22:15:35.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "ECommerceProject.Web\\Models\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\ECommerceProject\\ECommerceProject.Web\\Models\\CartHeaderDto.cs",
+              "RelativeToolTip": "ECommerceProject.Web\\Models\\CartHeaderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T21:52:29.123Z",
+              "EditorCaption": ""
             }
           ]
         },

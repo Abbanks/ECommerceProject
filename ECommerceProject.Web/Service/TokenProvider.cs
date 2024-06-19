@@ -1,6 +1,5 @@
 ﻿using ECommerceProject.Web.Service.IService;
 using ECommerceProject.Web.Utility;
-using Microsoft.AspNetCore.Http;
 
 namespace ECommerceProject.Web.Service
 {
@@ -27,7 +26,7 @@ namespace ECommerceProject.Web.Service
         public void SetToken(string token)
         {
             _httpContextAccessor.HttpContext?.Response.Cookies.Append(StaticDetail.TokenCookie, token);
-            
+
         }
     }
 }

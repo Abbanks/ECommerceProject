@@ -1,4 +1,4 @@
-﻿ using ECommerceProject.Services.AuthAPI.Models.Dto;
+﻿using ECommerceProject.Services.AuthAPI.Models.Dto;
 
 namespace ECommerceProject.Services.AuthAPI.Service.IService
 {

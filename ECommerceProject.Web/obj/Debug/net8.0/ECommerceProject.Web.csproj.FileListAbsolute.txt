@@ -40,3 +40,4 @@ C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\bin\Deb
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ZBOOK 14U G6\source\repos\ECommerceProject\ECommerceProject.Web\bin\Debug\net8.0\IdentityModel.dll

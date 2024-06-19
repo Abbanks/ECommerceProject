@@ -2,7 +2,7 @@
 using ECommerceProject.Services.CouponAPI.Models;
 using ECommerceProject.Services.CouponAPI.Repository.Interface;
 using Microsoft.EntityFrameworkCore;
- 
+
 
 namespace ECommerceProject.Services.CouponAPI.Repository
 {
