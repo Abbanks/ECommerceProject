@@ -12,6 +12,7 @@ using ECommerceProject.Services.ShoppingCartAPI.Service.IService;
 using ECommerceProject.Services.ShoppingCartAPI.Utility;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -29,9 +30,8 @@ builder.Services.AddDefaultAWSOptions(new AWSOptions
 
 builder.Services.AddAWSService<IAmazonEventBridge>();
 
-var eventBus = "ECommerce-Web";
 builder.Services.AddSingleton<IEventPublisher>(sp =>
-    new EventBridgePublisher(sp.GetRequiredService<IAmazonEventBridge>(), eventBus));
+    new EventBridgePublisher(sp.GetRequiredService<IAmazonEventBridge>(), builder.Configuration["EventBridgeDetails:EventBusName"]));
 
 IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
 builder.Services.AddSingleton(mapper);

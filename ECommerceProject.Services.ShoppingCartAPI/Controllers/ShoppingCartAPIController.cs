@@ -19,15 +19,17 @@ namespace ECommerceProject.Services.ShoppingCartAPI.Controllers
         private IProductService _productService;
         private ICouponService _couponService;
         private readonly IEventPublisher _eventPublisher;
-
+        private IConfiguration _configuration;
         public ShoppingCartAPIController(ICartRepository cartRepository, 
-            IMapper mapper, IProductService productService, ICouponService couponService, IEventPublisher eventPublisher)
+            IMapper mapper, IProductService productService, ICouponService couponService, 
+            IEventPublisher eventPublisher, IConfiguration configuration)
         {
             _cartRepository = cartRepository;
             _mapper = mapper;
             _productService = productService;
             _couponService = couponService;
             _eventPublisher = eventPublisher;
+            _configuration = configuration;
         }
 
         [HttpGet("get_cart/{userId}")]
@@ -144,9 +146,10 @@ namespace ECommerceProject.Services.ShoppingCartAPI.Controllers
             var response = new ResponseDto();
             try
             {
-                await _eventPublisher.PublishEvent(cartDto, "Cart Sent", "olubanke.eboda.ecommerceweb");
+                await _eventPublisher.PublishEvent(cartDto, "EmailCart",
+                    _configuration.GetValue<string>("EventBridgeDetails:EventSource"));
                 response.Result = true;
-            }
+            } 
             catch (Exception ex)
             {
                 response.IsSuccess = false;
